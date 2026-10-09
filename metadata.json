@@ -1,0 +1,6 @@
+{
+  "name": "Cams",
+  "description": "High-fidelity cinematic video camera engine with advanced stabilization, smooth flagship zoom, and ISP tone controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
